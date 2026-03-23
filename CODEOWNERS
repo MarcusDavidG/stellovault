@@ -1,0 +1,17 @@
+# Global fallback
+* @anonfedora
+
+# Soroban smart contracts — highest scrutiny
+/contracts/ @anonfedora
+
+# TypeScript server
+/server/ @anonfedora
+
+# Rust backend (archived, low churn)
+/backend/ @anonfedora
+
+# Frontend
+/frontend/ @anonfedora
+
+# CI / infra
+/.github/ @anonfedora
